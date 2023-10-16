@@ -69,6 +69,7 @@ header .container ul li .div2 span {
   border: 2px solid rgb(0, 162, 255);
   align-items: center;
   justify-content: center;
+  border-radius: 15px;
 }
 header .container ul li .div2 span i {
   font-size: 30px;

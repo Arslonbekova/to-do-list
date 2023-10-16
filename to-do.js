@@ -228,7 +228,7 @@ root.appendChild(container);
 // container.style.margin="0 auto";
 
 let h1=document.createElement("h1");
-h1.innerText="PHP TO DO Listg"
+h1.innerText="PHP TO DO List"
 container.appendChild(h1);
 // h1.style.fontWeight="30";
 // h1.style.color="red";
