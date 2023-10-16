@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Short Stack", " cursive";
+}
+
+header {
+  padding: 100px 20px;
+}
+header .container {
+  margin: 0 auto;
+  padding: 20px;
+  width: 100%;
+  max-width: 800px;
+  background-color: rgb(17, 230, 173);
+  border-radius: 20px;
+  color: rgb(2, 82, 82);
+}
+header .container .inputbox {
+  font-weight: 20px;
+  color: rgb(105, 0, 128);
+  padding: 10px;
+}
+header .container .inputbox input {
+  font-weight: 20;
+  height: 40px;
+  outline: none;
+  padding: 5px 20px;
+  border-radius: 10px;
+  border: 2px solid rgb(0, 111, 128);
+  outline: none;
+  width: 100%;
+  max-width: 680px;
+  background-color: rgb(181, 250, 232);
+}
+header .container .inputbox button {
+  border-radius: 10px;
+  border: 2px solid rgb(0, 111, 128);
+  color: rgb(0, 111, 128);
+  width: 60px;
+  padding: 5px;
+  height: 35px;
+  background: rgb(43, 198, 226);
+}
+header .container ul {
+  list-style: none;
+  padding: 0;
+}
+header .container ul li {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  font-weight: 20;
+  border-bottom: 5px solid rgb(0, 162, 255);
+  justify-content: space-between;
+  padding: 10px;
+}
+header .container ul li .div2 {
+  display: flex;
+  width: 100%;
+  max-width: 600px;
+  align-items: center;
+  justify-content: space-between;
+}
+header .container ul li .div2 span {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  border: 2px solid rgb(0, 162, 255);
+  align-items: center;
+  justify-content: center;
+}
+header .container ul li .div2 span i {
+  font-size: 30px;
+}
+header .container ul li .div2 p {
+  width: 100%;
+  max-width: 550px;
+}
+header .container ul li .div1 {
+  width: 100%;
+  max-width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header .container ul li .div1 i {
+  color: green;
+  font-size: 20px;
+}/*# sourceMappingURL=staly.css.map */
