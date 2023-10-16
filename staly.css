@@ -13,13 +13,12 @@ header .container {
   padding: 20px;
   width: 100%;
   max-width: 800px;
-  background-color: rgb(17, 230, 173);
+  background-color: rgb(125, 252, 218);
   border-radius: 20px;
   color: rgb(2, 82, 82);
 }
 header .container .inputbox {
   font-weight: 20px;
-  color: rgb(105, 0, 128);
   padding: 10px;
 }
 header .container .inputbox input {
@@ -31,14 +30,14 @@ header .container .inputbox input {
   border: 2px solid rgb(0, 111, 128);
   outline: none;
   width: 100%;
-  max-width: 680px;
+  max-width: 660px;
   background-color: rgb(181, 250, 232);
 }
 header .container .inputbox button {
   border-radius: 10px;
   border: 2px solid rgb(0, 111, 128);
   color: rgb(0, 111, 128);
-  width: 60px;
+  width: 80px;
   padding: 5px;
   height: 35px;
   background: rgb(43, 198, 226);
